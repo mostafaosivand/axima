@@ -1,0 +1,28 @@
+[
+  {
+  "title":"test1",
+    "product":
+  [
+    {
+      "id":"1" ,
+      "name":"aaa",
+      "newPrice":"200",
+      "oldPrice":"",
+      "detail":""
+    }
+  ]
+  },
+    {
+  "title":"test2",
+    "product":
+  [
+    {
+      "id":"2" ,
+      "name":"bbb",
+      "newPrice":"200",
+      "oldPrice":"",
+      "detail":""
+    }
+  ]
+  }
+]
